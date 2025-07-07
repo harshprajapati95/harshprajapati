@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Prajapati</h1>
-<h3 align="center">A Java Developer</h3>
+<h3 align="center"> full stack developer</h3>
 
 - 🌱 I’m currently learning **Spring Boot**  
 - 💬 Ask me about **Java, databases, and backend technologies**  
