@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**  
 - 💬 Ask me about **Java, databases, and backend technologies**  
-- 📫 How to reach me: **hp61735@gmail.com**
+- 📫 How to reach me: **hp6173585@gmail.com**
 
 ---
 
